@@ -1,8 +1,2 @@
-![](https://res.cloudinary.com/wesbos/image/upload/v1574876851/BJS/BJS-Social-Share.png)
-
-# Beginner JavaScript
-
-These are the starter files and solutions to the [Beginner JavaScript](https://BeginnerJavaScript.com) course
-
-
-More to come...
+# beginner-javascript
+A copy of my edits and experiments while following along in Wes Bos' Beginner Javascript course

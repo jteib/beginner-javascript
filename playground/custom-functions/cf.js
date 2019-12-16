@@ -29,5 +29,3 @@ function doctorize(name) {
 function yell(name = 'Silly Goose') {
   return `HEY ${name.toUpperCase()}`;
 }
-
-const myBill4 = calculateBill(100, undefined, 0.2);
